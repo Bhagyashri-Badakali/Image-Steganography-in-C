@@ -3,6 +3,4 @@ a.out
 *.exe
 core
 core.*
-secret.txt
-decoded.txt
-stego.bmp
+

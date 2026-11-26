@@ -59,5 +59,4 @@ gcc *.c -o steganography
 ## Author
 Bhagyashri Badakali
 
-## Project Status
-Completed
+
